@@ -30,5 +30,3 @@ class StringSchema extends Schema
         return $this;
     }
 }
-
-
